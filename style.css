@@ -79,6 +79,8 @@ h1 {
   .image1,.image2,.image3,.image4,.image5,.image6{
     width: 12vh;
   }
- 
+ h1 {
+    font-size: 5vh;
+ }
 }
 
